@@ -4,7 +4,7 @@
 ### Company: CODTECH IT SOLUTIONS
 ### ID: CT08DS7932
 ### Domain: FRONTEND WEB DEVELOPMENT
-### Duration:  JULY 10th 2024 to AUGUST 10th 2024
+### Duration:  SEPTEMBER 5th 2024 to OCTOBER 5th 2024
 
 ### Mentor Details:
 ### Name: NEELA SANTHU
